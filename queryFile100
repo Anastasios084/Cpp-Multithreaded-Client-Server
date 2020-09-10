@@ -1,0 +1,100 @@
+/topk-AgeRanges 4 Usa Yellow-Fever 21-05-2010 11-04-2016 
+/numPatientDischarges Polio 12-07-2007 09-03-2017  
+/numPatientAdmissions HIV 23-02-2008 08-11-2013  
+/searchPatientRecord 567 
+/topk-AgeRanges 3 Albania Cholera 22-02-2017 05-04-2019 
+/topk-AgeRanges 3 Afghanistan FLU 29-03-2004 11-08-2008 
+/searchPatientRecord 290 
+/searchPatientRecord 816 
+/numPatientAdmissions Yellow-Fever 09-02-2004 28-01-2008 Turkey 
+/topk-AgeRanges 3 Lebanon Yellow-Fever 17-03-2015 16-07-2015 
+/numPatientAdmissions Cholera 22-04-2017 26-09-2018 Poland 
+/searchPatientRecord 349 
+/searchPatientRecord 612 
+/numPatientAdmissions FLU 16-09-2006 20-02-2011  
+/searchPatientRecord 597 
+/topk-AgeRanges 4 Spain Sars-Cov-2 03-02-2000 28-08-2013 
+/searchPatientRecord 255 
+/diseaseFrequency Cholera 04-04-2019 30-08-2019 Usa 
+/topk-AgeRanges 1 Usa HIV 12-07-2006 17-09-2016 
+/searchPatientRecord 174 
+/numPatientDischarges HIV 06-09-2015 19-12-2016 Poland 
+/diseaseFrequency Polio 31-12-2014 05-10-2019 Australia 
+/searchPatientRecord 155 
+/numPatientAdmissions Polio 16-02-2005 08-10-2019  
+/searchPatientRecord 828 
+/diseaseFrequency FLU 27-04-2011 25-02-2018 Poland 
+/numPatientAdmissions HIV 03-07-2019 20-11-2019 Turkey 
+/numPatientDischarges Sars-Cov-2 24-09-2012 28-11-2019 Lebanon 
+/numPatientDischarges Yellow-Fever 26-07-2008 10-07-2019 Albania 
+/topk-AgeRanges 4 Spain HIV 04-11-2012 21-09-2018 
+/numPatientDischarges Yellow-Fever 21-04-2015 16-04-2018 Australia 
+/numPatientAdmissions Sars-Cov-2 14-02-2019 02-11-2019  
+/searchPatientRecord 318 
+/numPatientAdmissions HIV 05-07-2014 05-05-2017  
+/topk-AgeRanges 1 Australia Sars-Cov-2 12-05-2006 22-01-2014 
+/numPatientAdmissions Yellow-Fever 20-10-2009 17-11-2019 Lebanon 
+/numPatientDischarges FLU 13-09-2005 30-09-2008 Lebanon 
+/topk-AgeRanges 2 Turkey Polio 22-05-2014 17-08-2019 
+/searchPatientRecord 555 
+/searchPatientRecord 223 
+/searchPatientRecord 854 
+/numPatientDischarges Cholera 10-12-2009 23-08-2016 Usa 
+/diseaseFrequency Polio 15-02-2009 13-01-2012  
+/topk-AgeRanges 3 Albania Cholera 06-11-2008 12-11-2012 
+/topk-AgeRanges 1 Australia Polio 27-10-2008 07-11-2016 
+/searchPatientRecord 894 
+/numPatientAdmissions Covid-19 04-09-2012 20-11-2014  
+/numPatientDischarges Covid-19 27-12-2014 21-12-2018  
+/diseaseFrequency Covid-19 12-03-2002 13-01-2017  
+/numPatientDischarges HIV 24-06-2009 15-05-2015 Turkey 
+/topk-AgeRanges 2 Australia Polio 20-02-2015 21-08-2018 
+/numPatientAdmissions Covid-19 07-05-2014 22-12-2014 Greece 
+/topk-AgeRanges 3 Lebanon Cholera 14-12-2012 05-12-2017 
+/diseaseFrequency Yellow-Fever 14-12-2015 29-05-2017  
+/searchPatientRecord 252 
+/numPatientDischarges Yellow-Fever 05-06-2002 13-05-2008 Usa 
+/topk-AgeRanges 4 Albania HIV 19-11-2006 19-09-2008 
+/searchPatientRecord 133 
+/topk-AgeRanges 1 China HIV 06-03-2014 04-04-2017 
+/topk-AgeRanges 4 Italy FLU 14-07-2010 29-11-2019 
+/numPatientDischarges Covid-19 02-09-2003 05-11-2004 Turkey 
+/diseaseFrequency FLU 15-01-2008 24-08-2008 Australia 
+/numPatientAdmissions Sars-Cov-2 19-10-2017 04-12-2017  
+/numPatientDischarges HIV 10-04-2007 27-08-2015 Spain 
+/topk-AgeRanges 3 China Sars-Cov-2 25-05-2011 21-12-2019 
+/searchPatientRecord 947 
+/topk-AgeRanges 4 Usa Covid-19 26-10-2017 03-07-2019 
+/numPatientDischarges Yellow-Fever 19-05-2005 01-05-2015 Greece 
+/searchPatientRecord 115 
+/numPatientAdmissions HIV 12-11-2002 18-05-2012 Lebanon 
+/numPatientAdmissions Sars-Cov-2 09-06-2009 12-02-2015  
+/topk-AgeRanges 2 Italy Covid-19 07-02-2000 28-09-2000 
+/numPatientAdmissions Yellow-Fever 12-12-2018 01-01-2019 Greece 
+/searchPatientRecord 202 
+/numPatientAdmissions Cholera 27-10-2008 06-06-2014 Spain 
+/topk-AgeRanges 2 Lebanon FLU 05-08-2013 18-03-2016 
+/diseaseFrequency Cholera 14-06-2015 20-04-2018  
+/diseaseFrequency Sars-Cov-2 17-11-2007 29-03-2014 Australia 
+/searchPatientRecord 306 
+/diseaseFrequency Yellow-Fever 13-01-2018 15-05-2018  
+/numPatientAdmissions Cholera 31-03-2012 12-10-2014  
+/topk-AgeRanges 4 Greece HIV 25-08-2016 08-07-2017 
+/numPatientDischarges Cholera 17-08-2011 14-12-2013 China 
+/numPatientAdmissions FLU 02-08-2003 27-10-2006 Greece 
+/diseaseFrequency Cholera 19-06-2001 26-03-2015 China 
+/diseaseFrequency FLU 11-12-2011 22-04-2013  
+/topk-AgeRanges 4 Spain Yellow-Fever 17-01-2009 06-03-2013 
+/topk-AgeRanges 1 China Polio 28-05-2008 10-01-2012 
+/numPatientDischarges Polio 01-10-2012 19-03-2014 Lebanon 
+/diseaseFrequency FLU 10-07-2002 26-10-2018  
+/topk-AgeRanges 1 Italy HIV 21-10-2005 16-07-2012 
+/numPatientDischarges FLU 11-05-2012 11-11-2016 China 
+/diseaseFrequency Yellow-Fever 04-12-2006 30-03-2008 Afghanistan 
+/numPatientAdmissions Sars-Cov-2 27-07-2001 17-09-2010 Australia 
+/diseaseFrequency Cholera 11-12-2013 01-08-2019  
+/diseaseFrequency HIV 30-04-2007 20-02-2014 Poland 
+/diseaseFrequency Cholera 24-04-2009 22-07-2010 Lebanon 
+/numPatientDischarges HIV 01-02-2006 30-09-2015 Albania 
+/topk-AgeRanges 3 Usa HIV 19-05-2019 27-08-2019 
+/numPatientDischarges FLU 23-06-2008 19-02-2011 China 
